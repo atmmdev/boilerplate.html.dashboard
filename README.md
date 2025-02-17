@@ -65,24 +65,24 @@ This is just a boilerplate, so to any moment I can change.
 # Vite
 ```
 
-## Installing and run  the program
+## Installing and run the project
 
 ```bash
 # Step 01 
-Download or clone the repository.
+# Download or clone the repository.
 
 # Step 02 
-Open the project inside your favorite IDE (I use VSCode).
+# Open the project inside your favorite IDE (I use VSCode).
 
 # Step 03 
-If you have the extension 'Live Server' installed in VSCode.
+# If you have the extension 'Live Server' installed in VSCode.
 
 # Step 04
-Type in the terminal: 'npm i', to install dependencies.
+# Type in the terminal: 'npm i', to install dependencies.
 
 # Step 05
-Type in the terminal: 'npm run dev', to run the project.
+# Type in the terminal: 'npm run dev', to run the project.
 
 # Step 06 
-Access the URL: http://localhost:5173/, to see the project.
+# Access the URL: http://localhost:5173/, to see the project.
 ```
