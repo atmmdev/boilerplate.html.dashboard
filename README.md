@@ -33,6 +33,7 @@ This project is for help me to training some programming languages like CSS (SAS
 <br >
 
 ## See the Demo
+This is just a boilerplate, so to any moment I can change.
 
 <br >
 
