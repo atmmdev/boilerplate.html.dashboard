@@ -75,7 +75,7 @@ Download or clone the repository.
 Open the project inside your favorite IDE (I use VSCode).
 
 # Step 03 
-If you have the extension `Live Server` installed in VSCode.
+If you have the extension 'Live Server' installed in VSCode.
 
 # Step 04
 Type in the terminal: 'npm i', to install dependencies.
