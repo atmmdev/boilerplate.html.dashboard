@@ -41,13 +41,13 @@ This is just a boilerplate, so to any moment I can change.
 <div align="center">
   Login <br><br>
   <img src="readme/layout/login.png" alt="Login"/>
-  Register <br><br>
+<br><br> Register <br><br>
   <img src="readme/layout/register.png" alt="Register"/>
-  Reset Password <br><br>
+<br><br> Reset Password <br><br>
   <img src="readme/layout/reset.png" alt="Reset"/>
-  Forgot Password <br><br>
+<br><br> Forgot Password <br><br>
   <img src="readme/layout/forgot.png" alt="Forgot Password"/>
-  Dashboard <br><br>
+<br><br> Dashboard <br><br>
   <img src="readme/layout/dashboard.png" alt="Dashboard"/>
 </div>
 
